@@ -1,6 +1,6 @@
 # FitBit
 Various FitBit scripts
 
-*Requirments*<br />
+# Requirments
 matplotlib<br />
 requests<br />
